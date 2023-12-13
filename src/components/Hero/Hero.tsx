@@ -46,7 +46,7 @@ export const Hero = () => {
             <img className="w-100" src={sideImg} alt="" />
           </div>
         </div>
-        <p className="copyright text-white mt-4">
+        <p className="copyright text-center text-white mt-5">
           Copyright <FontAwesomeIcon icon={faCopyright} /> 2023
         </p>
       </div>
