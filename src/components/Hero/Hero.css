@@ -1,0 +1,22 @@
+img {
+  border-radius: 100px;
+}
+
+.regbtn {
+  background: none;
+  color: white;
+  border: 1px solid white;
+  padding: 13px;
+  font-weight: bolder;
+  border-radius: 10px !important;
+  transition: all 0.3s;
+}
+
+.regbtn:hover {
+  background: white;
+  color: rgb(4, 4, 56);
+}
+
+.regbtn:focus {
+  transform: translateY(5px);
+}
