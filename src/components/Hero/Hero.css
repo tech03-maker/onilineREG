@@ -1,6 +1,8 @@
 body{
-    background-image: linear-gradient(rgba(4, 2, 20, 0.945)50%, rgba(4, 2, 20, 0.945)50%), url(../../assets/black-students-caro-842601014.jpg);
+    background: linear-gradient(rgba(2, 2, 32, 0.9)50%,rgba(2, 2, 32, 0.9)50%), url(../../assets/black-students-caro-842601014.jpg);
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
   }
 
 img {
