@@ -1,3 +1,8 @@
+body{
+    background-image: linear-gradient(rgba(4, 2, 20, 0.945)50%, rgba(4, 2, 20, 0.945)50%), url(../../assets/black-students-caro-842601014.jpg);
+    background-size: cover;
+  }
+
 img {
   border-radius: 100px;
 }
